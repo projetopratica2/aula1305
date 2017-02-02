@@ -1,3 +1,5 @@
+package atividades;
+
 public class Calculadora {
 
   public static int somar(int v1, int v2){
